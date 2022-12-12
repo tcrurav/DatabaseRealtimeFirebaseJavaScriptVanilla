@@ -46,5 +46,5 @@ All you need is... some time and...
 
 * https://firebase.google.com/docs/database/web/lists-of-data. link to work with "lists of data" in official Firebase documentation.
 * https://firebase.google.com/docs/database/web/read-and-write. Link to work with "read and write" in official documentation.
-* https://www.djamware.com/post/5c98220080aca754f7a9d1f0/nodejs-expressjs-and-multer-restful-api-for-image-uploader. Excellent tutorial with an example using multer.
+* https://www.w3schools.com/js/js_modules.asp. JavaScript Modules Tutorial.
 * https://gist.github.com/PurpleBooth/109311bb0361f32d87a2. A very complete template for README.md files.
