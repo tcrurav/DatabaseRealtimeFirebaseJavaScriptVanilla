@@ -13,12 +13,8 @@ function listenToSentMessageButton() {
 function showMessages(snapshot) {
   let data = snapshot.val();
 
-  console.log("datitos", data)
-
   let messageList = "";
   for (let item in data) {
-    console.log("itemcito", item)
-    console.log(data[item])
     messageList = `
           <div>
             <div>${data[item].sentBy}:</div>
