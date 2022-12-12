@@ -4,13 +4,27 @@ This is just a simple Chat example using Firebase with JavaScript Vanilla.
 
 ## Getting Started
 
-Follow the tutorial to create a Firebase project: (It's not necessary to follow the whole video. Just to create the firebase project)
-https://www.youtube.com/watch?v=pP7quzFmWBY
-
-Once created just clone this project:
+Start cloning this project:
 
 ````
 git clone https://github.com/tcrurav/DatabaseRealtimeFirebaseJavaScriptVanilla.git
+````
+
+Follow the tutorial to create a Firebase project: (It's not necessary to follow the whole video. Just to create the firebase project)
+https://www.youtube.com/watch?v=pP7quzFmWBY
+
+When you have your Project Data just copy it in the file js/firebase-setup.js:
+
+````
+const firebaseConfig = {
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
+};
 ````
 
 Now you can run your index.html page.
